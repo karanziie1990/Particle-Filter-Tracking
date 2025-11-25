@@ -40,30 +40,6 @@ The robot measures distances to five fixed landmarks with Gaussian noise.
 Landmarks are positioned at coordinates:
 (20,20), (80,20), (80,80), (20,80), (50,50).
 
-## **Visualization Outputs**
-
-The project generates several analytical visualizations:
-
-* Particle evolution over selected time steps
-* Tracking error over time
-* Comparison across experimental configurations
-
-(Only these three visualization types are highlighted, as requested.)
-
-## **Comparative Experiments**
-
-Six configurations were tested:
-
-* Baseline (100 particles)
-* Few particles (20)
-* Many particles (500)
-* High motion noise
-* High measurement noise
-* Low noise
-
-Experimental design derived from the report (pages 4–6) .
-
----
 
 # **Environment Setup**
 
