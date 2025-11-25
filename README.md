@@ -152,8 +152,6 @@ Increased motion noise improves particle diversity and prevents collapse.
 * Mean error: **1.850 m**
 * Insufficient noise → particle collapse → overconfident failure
 
-These results match the report’s analysis (pages 12–16) .
-
 ---
 
 # **Selected Visualizations**
